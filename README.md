@@ -5,7 +5,7 @@ Sistema de gerenciamento desenvolvido para projeto de extensão.
 ## Tecnologias
 
 - Java
-- -JDBC
+- JDBC
 - MySQL
 - NetBeans
 - Git
